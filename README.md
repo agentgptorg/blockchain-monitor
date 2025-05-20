@@ -79,21 +79,3 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 ## License
 
 MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Roadmap
-
-```mermaid
-gantt
-    title AgentGPT Blockchain Monitor Roadmap
-    dateFormat  YYYY-MM-DD
-    section Core
-    Basic Monitoring    :done, 30d
-    Analytics Engine    :active, 30d
-    Alert System        :30d
-    section Advanced
-    Multi-chain Support :30d
-    ML Integration      :30d
-    section Enterprise
-    API Gateway         :30d
-    Enterprise Features :30d
-``` 
